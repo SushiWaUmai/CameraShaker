@@ -6,7 +6,7 @@
   "unity": "2019.4",
   "type": "library",
   "dependencies": {
-    "com.unity.cinemachine": "2.6.2",
+    "com.unity.cinemachine": "2.3.4",
     "com.noki.basics": "1.0.0"
   }
 }
